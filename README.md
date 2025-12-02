@@ -6,4 +6,5 @@ Trying out Rust. Code can be run with
 
 ## Notes to myself
 
-- Day 1 (easy): Will need to learn how to parse strings properly, getting of direction/number should be easier.
+- Day 1: Will need to learn how to parse strings properly, getting of direction/number should be easier.
+- Day 2: Iterating over `start..=end` seems inefficient but it is what it is. 
