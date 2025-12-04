@@ -9,3 +9,4 @@ Trying out Rust. Code can be run with
 - Day 1: Will need to learn how to parse strings properly, getting of direction/number should be easier.
 - Day 2: Iterating over `start..=end` seems inefficient but it is what it is. 
 - Day 3: Fun, a lot of off-by-one errors but my solution seems efficient. 
+- Day 4: Very inefficient solution to recompute the whole map on every iteration, could have somehow updated the neighbours?
