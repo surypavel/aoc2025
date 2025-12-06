@@ -11,3 +11,4 @@ Trying out Rust. Code can be run with
 - Day 3: Fun, a lot of off-by-one errors but my solution seems efficient. 
 - Day 4: Very inefficient solution to recompute the whole map on every iteration, could have somehow updated the neighbours?
 - Day 5: Super simple part 1, in part 2 just need to sort and reduce the intervals.
+- Day 6: Had to do a complete rewrite for part 2. Wasn't hard but it took me quite a long time.
