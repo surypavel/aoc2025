@@ -12,4 +12,5 @@ Trying out Rust. Code can be run with
 - Day 4: Very inefficient solution to recompute the whole map on every iteration, could have somehow updated the neighbours?
 - Day 5: Super simple part 1, in part 2 just need to sort and reduce the intervals.
 - Day 6: Had to do a complete rewrite for part 2. Wasn't hard but it took me quite a long time.
-- Day 7: Not really hard but nice to have made it with a single top-to-bottom iteration.
+- Day 7: Nice to have made it with a single top-to-bottom iteration.
+- **Day 8**: Medium difficulty. It's not obvious to me if my solution could be more efficient. Took me a long time to get it to usable state. Needed a complete rewrite for part 2. 
