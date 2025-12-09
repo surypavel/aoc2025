@@ -14,3 +14,4 @@ Trying out Rust. Code can be run with
 - Day 6: Had to do a complete rewrite for part 2. Wasn't hard but it took me quite a long time.
 - Day 7: Nice to have made it with a single top-to-bottom iteration.
 - **Day 8**: Medium difficulty. It's not obvious to me if my solution could be more efficient. Took me a long time to get it to usable state. Needed a complete rewrite for part 2. 
+- **Day 9**: Hard. What a disaster of a code I have. Basically old trick with bucket-fill top-to-bottom of all intersection points. Super error-prone.
